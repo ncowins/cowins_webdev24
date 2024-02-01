@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
+  margin-bottom: 0;
   background-color: #00B386;
   color: #FFFFFF;
-  margin-bottom: 0;
 }
 
 nav {
