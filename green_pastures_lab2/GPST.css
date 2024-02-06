@@ -1,21 +1,35 @@
 body {
   background-color: #FFFFFF;
   color: #666666;
-  
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
   background-color: #00B386;
   color: #FFFFFF;
   margin-bottom: 0px;
+  background-image: url("pasture.png");
+  line-height: 400%;
+  text-indent: 1em;
+  font-family: Georgia, Times New Roman, serif;
 }
 
 nav {
   background-color: #70DBDB;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
 }
 
 h2 {
   color: #00664D;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+h3 {
+  font-family: Georgia, Times New Roman, serif;
 }
 
 dt {
