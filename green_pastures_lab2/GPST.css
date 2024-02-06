@@ -36,6 +36,20 @@ dt {
   color: #00664D;
 }
 
+ul {
+  list-style-type: url("marker.gif");
+}
+
+footer{
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+  font-family: Georgia, Times New Roman, serif;
+}
 .barn {
   color: #70DBDB;
+  font-style: bold;
+}
+#contact {
+  font-size: 90%;
 }
