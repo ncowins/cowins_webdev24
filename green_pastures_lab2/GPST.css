@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  background: #00B386 url("pasture.png") no-repeat right;
+  background: #00B386 url("images/pasture.png") no-repeat right;
   margin-bottom: 0px;
   line-height: 200%;
   text-indent: 1em;
@@ -36,7 +36,7 @@ dt {
 }
 
 ul {
-  list-style-type: url("marker.gif");
+  list-style-type: url("images/marker.gif");
 }
 
 footer {
