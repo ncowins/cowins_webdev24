@@ -9,10 +9,13 @@ header {
   background-image: url("images/pasture.png");
   background-position: right;
   background-repeat: no-repeat;
-  margin-bottom: 0px;
   line-height: 400%;
   text-indent: 1em;
   color: #FFFFFF;
+}
+
+h1 {
+    margin-bottom: 0px;
   font-family: Georgia, Times New Roman, serif;
 }
 
