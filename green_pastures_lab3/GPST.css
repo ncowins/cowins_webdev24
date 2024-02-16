@@ -28,6 +28,20 @@ main {
   background-size: 100% 100%; 
 }
 
+#heroBoard {
+  height: 300px;
+  background-image: url("fenceline.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#heroTraining {
+  height:300px;
+  background-image: url("BayBella.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
 header {
   background-color: #00B386;
   background-position: right;
