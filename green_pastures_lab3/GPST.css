@@ -1,5 +1,5 @@
 body {
-  background-image: url("sky.png");
+  background-image: url("images/sky.png");
   background-repeat: no-repeat;
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
@@ -24,20 +24,20 @@ main {
 
 #heroHome {
   height: 300px;
-  background-image: url("sunsetHorse.png");
+  background-image: url("images/sunsetHorse.png");
   background-size: 100% 100%; 
 }
 
 #heroBoard {
   height: 300px;
-  background-image: url("fenceline.png");
+  background-image: url("images/fenceline.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #heroTraining {
   height:300px;
-  background-image: url("BayBella.png");
+  background-image: url("images/BayBella.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
