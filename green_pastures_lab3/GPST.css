@@ -86,7 +86,7 @@ dt {
 }
 
 ul {
-  list-style-type: url(images/marker.gif);
+  list-style-image: url("images/marker.gif");
 }
 
 footer {
