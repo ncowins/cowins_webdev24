@@ -25,21 +25,21 @@ main {
 #heroHome {
   height: 300px;
   background-image: url("images/sunsetHorse.png");
-  background-size: 100%; 
+  background-size: 100% 100%; 
   background-repeat: no-repeat;
 }
 
 #heroBoard {
   height: 300px;
   background-image: url("images/fenceline.png");
-  background-size: 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #heroTraining {
   height:300px;
   background-image: url("images/BayBella.png");
-  background-size: 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
