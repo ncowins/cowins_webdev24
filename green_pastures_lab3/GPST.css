@@ -90,6 +90,8 @@ ul {
 }
 
 footer {
+  margin: 0px;
+  padding: 0px;
   font-size: 75%;
   font-style: italic;
   text-align: center;
