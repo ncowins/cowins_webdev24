@@ -1,0 +1,106 @@
+body {
+  background-image: url("images/sky.png");
+  background-repeat: no-repeat;
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+  margin: auto;
+  width: 80%;
+  background-color: #FFFFFF;
+  min-width: 900px;
+  max-width: 2050px;
+  box-shadow: 4px #133926;
+}
+
+main {
+  padding-top: 1px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  display: block;
+}
+
+#heroHome {
+  height: 300px;
+  background-image: url("images/sunsetHorse.png");
+  background-size: 100% 100%; 
+  background-repeat: no-repeat;
+}
+
+#heroBoard {
+  height: 300px;
+  background-image: url("images/fenceline.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#heroTraining {
+  height:300px;
+  background-image: url("images/BayBella.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #00B386;
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 60px;
+  text-align: center;
+  top-padding: 15px;
+  color: #FFFFFF;
+}
+
+h1 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+h2 {
+  color: #00664D;
+  text-shadow: 1px #CCCCCC;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+h3 {
+  font-family: Georgia, Times New Roman, serif;
+}
+
+nav {
+  margin-top: 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+dt {
+  color: #00664D;
+}
+
+ul {
+  list-style-image: url("images/marker.gif");
+}
+
+footer {
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+  font-family: Georgia, Times New Roman, serif;
+  padding: 15px;
+}
+
+.barn {
+  color: #70DBDB;
+  font-style: bold;
+}
+#contact {
+  font-size: 90%;
+}
