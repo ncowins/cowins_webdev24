@@ -16,7 +16,7 @@ body {
   min-width: 900px;
   max-width: 2050px;
   box-shadow: 4px #133926;
-  background-image: linear-gradient(to bottom, white, dark-green);
+  background-image: linear-gradient(white, dark-green);
 }
 
 main {
