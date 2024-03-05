@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-image: url("images/sky.png");
   background-repeat: no-repeat;
@@ -8,10 +12,11 @@ body {
 #wrapper {
   margin: auto;
   width: 80%;
-  background-color: #FFFFFF;
+  background-color: #0C5442;
   min-width: 900px;
   max-width: 2050px;
   box-shadow: 4px #133926;
+  background-image: linear-gradient(to bottom, white, dark-green);
 }
 
 main {
