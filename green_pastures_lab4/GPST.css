@@ -3,8 +3,7 @@
 }
 
 body {
-  background-image: url("images/sky.png");
-  background-repeat: no-repeat;
+  background-color: #FFFFFF;
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -12,18 +11,21 @@ body {
 #wrapper {
   margin: auto;
   width: 80%;
-  background-color: #0C5442;
   min-width: 900px;
   max-width: 2050px;
   box-shadow: 4px #133926;
-  background-image: linear-gradient(white, dark-green);
+  background-color: #0C5442;
+  background-image: linear-gradient(to bottom, #FFFFFF, #0C5442);
+  border: 1.5pt solid #003300;
 }
 
 main {
+  background-color: #FFFFFF;
+  margin-left: 190px;
   padding-top: 1px;
   padding-right: 20px;
   padding-bottom: 20px;
-  padding-left: 20px;
+  padding-left: 30px;
   display: block;
 }
 
@@ -31,6 +33,7 @@ main {
   height: 300px;
   background-image: url("images/sunsetHorse.png");
   background-size: 100% 100%; 
+  margin-left: 190px;
   background-repeat: no-repeat;
 }
 
@@ -38,6 +41,7 @@ main {
   height: 300px;
   background-image: url("images/fenceline.png");
   background-size: 100% 100%;
+  margin-left: 190px;
   background-repeat: no-repeat;
 }
 
@@ -45,6 +49,7 @@ main {
   height:300px;
   background-image: url("images/BayBella.png");
   background-size: 100% 100%;
+  margin-left: 190px;
   background-repeat: no-repeat;
 }
 
@@ -52,16 +57,18 @@ header {
   background-color: #00B386;
   background-position: right;
   background-repeat: no-repeat;
-  height: 60px;
   text-align: center;
-  top-padding: 15px;
   color: #FFFFFF;
+  height: 175px;
+  padding-top: 30px;
+  padding-left: 3em;
 }
 
 h1 {
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-top: 0;
   font-family: Georgia, Times New Roman, serif;
+  font-size: 3em;
+  letter-spacing: 0.25em;
 }
 
 h2 {
@@ -76,10 +83,28 @@ h3 {
 
 nav {
   margin-top: 0px;
-  background-color: #FFFFFF;
-  text-align: center;
-  padding: 10px;
+  padding: 1.5em;
+  font-size: 120%;
+  width: 160px;
+  float: left;
   font-weight: bold;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0; 
+    font-size: 1.2em;
+}
+
+nav a:link {
+    color: #00664D;
+}
+
+nav a:visited {
+    color: #7A7A52;
+}
+nav a:hover {
+    color: #FFFFFF;
 }
 
 nav a {
@@ -90,7 +115,7 @@ dt {
   color: #00664D;
 }
 
-ul {
+main ul {
   list-style-image: url("images/marker.gif");
 }
 
@@ -100,6 +125,8 @@ footer {
   text-align: center;
   font-family: Georgia, Times New Roman, serif;
   padding: 15px;
+  margin-left: 190px;
+  background-color: 190px;
 }
 
 .barn {
