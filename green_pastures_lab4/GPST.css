@@ -94,13 +94,6 @@ nav a {
   text-decoration: none;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding-left: 0; 
-    font-size: 1.2em;
-}
-
 nav a:link {
     color: #00664D;
 }
@@ -110,6 +103,12 @@ nav a:visited {
 }
 nav a:hover {
     color: #FFFFFF;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0; 
+    font-size: 1.2em;
 }
 
 dt {
