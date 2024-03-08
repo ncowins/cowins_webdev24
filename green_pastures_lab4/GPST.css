@@ -89,8 +89,13 @@ nav {
   float: left;
   font-weight: bold;
 }
+
+nav a {
+  text-decoration: none;
+}
+
 nav ul {
-    list-style: none;
+    list-style-type: none;
     margin: 0;
     padding-left: 0; 
     font-size: 1.2em;
@@ -105,10 +110,6 @@ nav a:visited {
 }
 nav a:hover {
     color: #FFFFFF;
-}
-
-nav a {
-  text-decoration: none;
 }
 
 dt {
