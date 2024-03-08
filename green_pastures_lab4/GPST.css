@@ -31,7 +31,7 @@ main {
 
 #heroHome {
   height: 300px;
-  background-image: url("images/sunsetHorse.png");
+  background-image: url(images/sunsetHorse.png);
   background-size: 100% 100%; 
   margin-left: 190px;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ main {
 
 #heroBoard {
   height: 300px;
-  background-image: url("images/fenceline.png");
+  background-image: url(images/fenceline.png);
   background-size: 100% 100%;
   margin-left: 190px;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@ main {
 
 #heroTraining {
   height:300px;
-  background-image: url("images/BayBella.png");
+  background-image: url(images/BayBella.png);
   background-size: 100% 100%;
   margin-left: 190px;
   background-repeat: no-repeat;
@@ -117,7 +117,7 @@ dt {
 }
 
 main ul {
-  list-style-image: url("images/marker.gif");
+  list-style-image: url(images/marker.gif);
 }
 
 footer {
