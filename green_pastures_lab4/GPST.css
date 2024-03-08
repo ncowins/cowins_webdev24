@@ -13,7 +13,7 @@ body {
   width: 80%;
   min-width: 900px;
   max-width: 2050px;
-  box-shadow: 4px #133926;
+  box-shadow: 4px 4px 4px #133926;
   background-color: #0C5442;
   background-image: linear-gradient(to bottom, #FFFFFF, #0C5442);
   border: 1.5pt solid #003300;
@@ -73,7 +73,7 @@ h1 {
 
 h2 {
   color: #00664D;
-  text-shadow: 1px #CCCCCC;
+  text-shadow: 1px 1px #CCCCCC;
   font-family: Georgia, Times New Roman, serif;
 }
 
@@ -127,12 +127,12 @@ footer {
   font-family: Georgia, Times New Roman, serif;
   padding: 15px;
   margin-left: 190px;
-  background-color: 190px;
+  background-color: #FFFFFF;
 }
 
 .barn {
   color: #70DBDB;
-  font-style: bold;
+  font-weight: bold;
 }
 #contact {
   font-size: 90%;
